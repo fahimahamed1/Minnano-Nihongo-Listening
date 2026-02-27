@@ -1,0 +1,29 @@
+<resources>
+    <!-- Primary Colors - Sakura inspired -->
+    <color name="primary">#E91E63</color>
+    <color name="primaryDark">#C2185B</color>
+    <color name="primaryLight">#F8BBD9</color>
+    
+    <!-- Accent -->
+    <color name="accent">#FF5722</color>
+    
+    <!-- Backgrounds -->
+    <color name="bg">#FAFAFA</color>
+    <color name="bgCard">#FFFFFF</color>
+    <color name="bgDark">#F5F5F5</color>
+    
+    <!-- Text -->
+    <color name="text">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textLight">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- Player -->
+    <color name="playerBg">#1A1A2E</color>
+    <color name="playerText">#EAEAEA</color>
+    <color name="playerAccent">#E94560</color>
+    
+    <!-- List items -->
+    <color name="listDivider">#E0E0E0</color>
+    <color name="ripple">#20E91E63</color>
+</resources>

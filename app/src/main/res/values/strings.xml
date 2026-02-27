@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minnano Nihongo Listening</string>
+    <string name="main_dialogue">Main Dialogue</string>
+    <string name="question_format">Question %1$s</string>
+    <string name="lesson_format">第%1$d課</string>
+    <string name="no_audio_files">No audio files found</string>
+    <string name="error_loading">Error loading audio</string>
+    <string name="developer_names">Fahim Ahamed &amp; Fahad Ahamed</string>
+    <string name="developed_by">Developed with ❤️ by</string>
+</resources>
